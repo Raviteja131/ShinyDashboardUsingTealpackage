@@ -1,6 +1,6 @@
 # ShinyDashboardUsingTealpackage
 
-Link:- https://raviteja11.shinyapps.io/ShinyDashboardUsingTealPackage/                              
+Link:- https://raviteja11.shinyapps.io/ShinyDashboardUsingTealPackage/                                                          
 
 In this Dashboard we use clinical trial data, ADAE and ADSL refer to specific datasets that are part of the CDISC ADaM (Analysis Data Model) standards:
 
